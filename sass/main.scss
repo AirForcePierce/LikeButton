@@ -1,6 +1,17 @@
 // Put any @imports here
 // See Readme for a list of supported ones
 
+@import "foundation";
+
 body {
   background: #e2ebf3;
+}
+
+.app {
+  width: 600px;
+  margin: 15px auto;
+}
+
+button {
+  border-radius: 6px;
 }
